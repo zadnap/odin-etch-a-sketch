@@ -8,7 +8,7 @@ body {
     padding: 10px;
 }
 
-#choose-size {
+#change-size {
     margin-bottom: 10px;
 }
 
@@ -17,9 +17,9 @@ body {
     height: 960px;
     display: flex;
     flex-wrap: wrap;
-    background-color: red;
 }
 
 .square {
-    background-color: green;
+    background-color: black;
+    opacity: 0;
 }
