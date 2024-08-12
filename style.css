@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 10px;
+}
+
+#choose-size {
+    margin-bottom: 10px;
+}
+
+.container {
+    width: 960px;
+    height: 960px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: red;
+}
+
+.square {
+    background-color: green;
+}
